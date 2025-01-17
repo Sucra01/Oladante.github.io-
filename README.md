@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content=width=device-width
+    <title>Change Background Color</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
-  <body>
-    <h1>Welcome to Oladante music</h1>
-    <p>This is a sample website created using Github.</p>
-  </body>
+<body>
+    <h1>Hello, World!</h1>
+</body>
 </html>
