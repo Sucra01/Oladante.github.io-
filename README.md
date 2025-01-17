@@ -1,10 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Change Background Color</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oladante Music</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Hello, World!</h1>
+    <header>
+        <h1>Oladante Music</h1>
+    </header>
+    <main>
+        <p>Welcome to Oladante Music - Your favorite music streaming service!</p>
+    </main>
 </body>
 </html>
